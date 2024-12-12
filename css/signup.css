@@ -1,0 +1,30 @@
+body {
+    background-color: #24353f;
+  }
+  #signupForm {
+    background-color: #24353fea;
+  }
+  h1 {
+    color: #17a2b8;
+  }
+  button {
+    border: #17a2b8 solid 2px;
+    color: #17a2b8;
+    background-color: #24353f;
+    padding: 5px 20px;
+    transition: all 0.3s;
+  }
+  
+  button:hover {
+    background-color: #17a2b8;
+    color: white;
+  }
+  
+  p a {
+    color: white;
+  }
+  
+  p a:hover {
+    color: #17a2b8;
+  }
+  
